@@ -1,0 +1,28 @@
+vdynblksskidpad_sfun.obj
+c3_vdynblksskidpad.obj
+vdynblksskidpad_sfun_registry.obj
+insertShapeUtilsCore.obj
+cvstDraw.obj
+insertShapeAndMarkerUtils.obj
+half_type.obj
+
+
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmwgrayto8.lib"
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\sf_runtime.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmx.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmex.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmat.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libfixedpoint.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libut.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmwstringutil.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmwmathutil.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libemlrt.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmwsl_log_load_blocks.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmwsimulink.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmwsl_sfcn_cov_bridge.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libcovrt.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmwsl_simtarget_core.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmwsl_simtarget_instrumentation.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmwslexec_simlog.lib" 
+"C:\Program Files\MATLAB\R2023b\extern\lib\win64\mingw64\libmwslccrt.lib"
+

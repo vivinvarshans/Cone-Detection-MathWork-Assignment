@@ -2,6 +2,7 @@
 
 ## Instructions
 
+- Go inside "Train Detector" folder and run detector.mlx file to create the detector file.
 - Open "main" run the file.
 - Let the simulation run once.
 - if cone detection is not visible at first run then do the below setps.(SEE "Configurations" Video)

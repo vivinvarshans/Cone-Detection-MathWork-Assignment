@@ -11,6 +11,10 @@ In this project, we will use the Generate Skidpad Test model introduced in R2023
 - Trained data is used in "Deep learning object detector" block and ouput is viewed using "video viewer block".
 - Generate Skipad Test model is used from Mathworks Files.
 
+#Tutorial video
+
+[video link](https://youtu.be/M3Bs8xnoTd4?feature=shared)
+
 # How to run 
 - Detector file is there already and cone detection can be done by running "main.mlx" file. if you wish to train your own detector file follow below steps
    - 1 . Go inside "Train Detector" folder and run detector.mlx file to create the detector file.

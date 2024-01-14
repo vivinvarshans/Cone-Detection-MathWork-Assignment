@@ -13,9 +13,9 @@ In this project, we will use the Generate Skidpad Test model introduced in R2023
 
 # How to run 
 - Detector file is there already and cone detection can be done by running "main.mlx" file. if you wish to train your own detector file follow below steps
-    1 . Go inside "Train Detector" folder and run detector.mlx file to create the detector file.
-    2 . Copy 'yolov2ConeDetector' to main directory
-    3 . Open "main.mlx" and run the file.
+   - 1 . Go inside "Train Detector" folder and run detector.mlx file to create the detector file.
+   - 2 . Copy 'yolov2ConeDetector' to main directory
+   - 3 . Open "main.mlx" and run the file.
 
 # Output
 ![Screenshot 2024-01-14 224555](https://github.com/vivinvarshans/Cone-Detection-MathWork-Assignment/assets/81176289/a065704d-8cc8-4554-9e7c-99bf6900fe57)

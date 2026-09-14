@@ -25,7 +25,10 @@ In this project, we will use the Generate Skidpad Test model introduced in R2023
 ![Screenshot 2024-01-14 224555](https://github.com/vivinvarshans/Cone-Detection-MathWork-Assignment/assets/81176289/a065704d-8cc8-4554-9e7c-99bf6900fe57)
 ![Screenshot 2024-01-14 224645](https://github.com/vivinvarshans/Cone-Detection-MathWork-Assignment/assets/81176289/3101ae84-960f-4592-9d0b-2bfecf80e6b4)
 
-  
+# Contributors
+- Nitin Senthilkumar
+- Vivin Varshan S  
+
 # Reference
 - https://in.mathworks.com/help/vdynblks/ug/generate-skidpad-test-course.html
 
